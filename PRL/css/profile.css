@@ -1,0 +1,9 @@
+.profile {
+    padding-top: 10px;
+}
+
+.Foto-Profile img{
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+}
